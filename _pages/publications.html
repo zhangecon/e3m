@@ -11,26 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+Xinya Hao, Lin Zhang, Huanhuan Zheng (2026): FDI and Coal Lock-In: The Global South’s Development Dilemma. World Development, 206, 107453. Link
+Qiang Li, Lin Zhang (2026): Whose Voices Are Being Heard? The Impacts of Public Participation on Policy Attention in China. American Review of Public Administration, forthcoming. Link
+Xinya Hao, Yongying Huang, Lin Zhang (2025): High Temperature, Power Rationing, and Firm Performance. Journal of Development Economics, 176, 103541. Link
