@@ -17,7 +17,6 @@ Education
 
 Work experience
 ======
-* Full Professor, City University of Hong Kong
 * 2026	UAiTED Visiting Faculty, National ChengChi University
 * 2025	Associate Director, Institute of Global Governance and Innovation for a Shared Future, City University of Hong Kong (CityUHK)
 * 2025	Full Professor, School of Energy and Environment (SEE), joint Appointment with Department of Public and International Affairs (PIA), CityUHK
@@ -46,6 +45,7 @@ Service and leadership
 
 Awards
 ======
+* 2026 Best Paper Award for the paper titled "The Impacts of Carbon Polices on Energy Transition in China" at The 8th IAEE Asia-Oceania Conference in Qingdao
 * 2025 Top Scholar (top 0.5% in Social Sciences, economics, and Overall) by ScholarGPS
 * 2024 SUSI Scholar on Economics and Sustainable Development by the U.S. Department of State (one of the 18 Global Leaders)
 * 2024 Top 2% most highly cited scientists by Stanford University
