@@ -14,3 +14,16 @@ Research Interests
   * Energy & Sustainability Economics (with particular interests in energy transition and carbon neutrality)
   * Green Business & Sustainable Governance (with particular interests in corporate strategy for sustainability and resource use)
   * Sustainable Economic Development (with particular interests in green growth and growth under climate Risks)
+
+* **Ten Representative peer-reviewed Articles**:
+   * Xinya Hao, **Lin Zhang**, Huanhuan Zheng (2026): FDI and Coal Lock-In: The Global South’s Development Dilemma. *World Development*, 206, 107453. <sup>[Link](https://doi.org/10.1016/j.worlddev.2026.107453)</sup>
+   * Qiang Li, **Lin Zhang** (2026): Whose Voices Are Being Heard? The Impacts of Public Participation on Policy Attention in China. *American Review of Public Administration*, forthcoming. <sup>[Link](https://doi.org/10.1177/02750740261432649)</sup>
+  * Xinya Hao, Yongying Huang, **Lin Zhang** (2025): High Temperature, Power Rationing, and Firm Performance. *Journal of Development Economics*, 176, 103541. <sup>[Link](https://doi.org/10.1016/j.jdeveco.2025.103541)</sup>
+  * Cong Li, Minglai Li, **Lin Zhang**, Qiang Li, Hua Zheng, Marcus W. Feldman (2025): Energy–poverty–inequality SDGs: A large-scale household analysis and forecasting in China. *Proceedings of the National Academy of Sciences of the United States of America* (PNAS), 122(1), Article e2408167121. <sup>[Link](https://doi.org/10.1073/pnas.2408167121)</sup>
+  * Wei Jin, Frederick van der Ploeg, and **Lin Zhang** (2024): How Clean Capital Slows Down Disinvestment of Carbon-Intensive Capital in the Low-Carbon Transition. *Journal of Economic Dynamics and Control*, 162, 104857. <sup>[Link](https://doi.org/10.1016/j.jedc.2024.104857)</sup>
+  * Yao An and **Lin Zhang** (2023): The Thirst for Power: The Impacts of Water Availability on Electricity Generation in China. *The Energy Journal*, 44(2), 205-240. <sup>[Link](https://doi.org/10.5547/01956574.44.2.yaan)</sup>
+  * Yao Yao, Xue Li, Russell Smyth, **Lin Zhang** (2022): Air pollution and political trust in local government: Evidence from China. *Journal of Environmental Economics and Management*, 115, 102724. <sup>[Link](https://doi.org/10.1016/j.jeem.2022.102724)</sup>
+  * Christos Karydas and **Lin Zhang** (2019): Green tax reform, endogenous innovation and the growth dividend. *Journal of Environmental Economics and Management*, 97, 158-181.  <sup>[Link](https://doi.org/10.1016/j.jeem.2017.09.005)</sup>
+  * Lucas Bretschger, Filippo Lechthaler, Sebastian Rausch, **Lin Zhang** (2017): Knowledge diffusion, endogenous growth and the costs of global climate policy. *European Economic Review*, 93, 47-72. <sup>[Link](http://dx.doi.org/10.1016/j.euroecorev.2016.11.012)</sup>
+  * **Lin Zhang** (2017): Correcting the uneven burden sharing of emission reduction across provinces in China. *Energy Economics*, 64, 335-345. <sup>[Link](https://doi.org/10.1016/j.eneco.2017.04.005)</sup>
+ 
