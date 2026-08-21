@@ -4,15 +4,12 @@ title: "Media Post"
 collection: portfolio
 ---
 
-This is a collection of my Podcasts
+This is a collection of my articles in media.
 
-**Media Interviews/Talks/Podcasts**:
-  * Is your cooking stove a climate problem? - *CGTN‘s "Climate Watch" Podcast*. <sup>[Link](https://radio.cgtn.com/podcast/news/5/Is-your-cooking-stove-a-climate-problem/2715163)</sup>
-  * The development of China's green finance. - *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang2/zhang2.mp3)</sup>
-  * COVID-19 is changing the emission trajectories in China and at the global level. - *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang/LinZhang-podcast.mp3)</sup>
-  * Climate Risks and Corporate Carbon Strategies. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang6.aspx)</sup>
-  * Climate Policy and Governance of Carbon Neutrality. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang5.aspx)</sup>
-  * The Thirst for Power: the Nexus on Climate Change, Water Scarcity, and Electricity Outage. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang4.aspx)</sup>
-  * Reforming China's Electricity Sector: The Potential Gains and Pitfalls. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang3.aspx)</sup>
-  * Energy Transition in China: Technology, Policy, and Society. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang2.aspx)</sup>
-  * Moving Green: Opportunities and Challenges of China's Recovery Plan. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang.aspx)</sup> 
+
+**Non-peer-reviewed Media Articles**:
+  *  Q. Li and L. Zhang (2024): The Impact of AI on the Energy Sector in China. *IAEE Energy Forum*, 2nd Quarter 2024, p5-7. <sup>[Link](https://www.iaee.org/newsletter/issue/117)</sup>
+  *  L. Zhang (2022): Hong Kong’s Fight for Climate Change: Facts, Challenges, and Opportunities. *IAEE Energy Forum*, 3rd Quarter 2022, p8-9. <sup>[Link](https://www.iaee.org/en/publications/newsletterdl.aspx?id=1027)</sup>
+  *  J. Shang and L. Zhang (2019): In the fight against climate change, hydrogen could be the answer to Hong Kong’s quest for greener fuel. *South China Morning Post*, 2019-09-24. <sup>[Link](https://www.scmp.com/comment/letters/article/3029939/fight-against-climate-change-hydrogen-could-be-answer-hong-kongs)</sup>
+  *  L. Zhang (2019): Win the trade war and lose the world? Why US and China need to focus on war against climate change. *South China Morning Post*, 2019-01-03. <sup>[Link](https://www.scmp.com/comment/letters/article/2180347/win-trade-war-and-lose-world-why-us-and-china-need-focus-war-against)</sup>
+ 
