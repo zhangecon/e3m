@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 <p style="color: rgb(0, 0, 255);"><b><u>Energy and Environmental Economics </u></b></p>
 <ul>
   <li> Level: undergraduate </li>
