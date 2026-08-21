@@ -1,56 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Short Bio in English"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html), and an Associate Director for the Institute of Global Governance and Innovation for a Shared Future. He leads the Laboratory for Energy Economics and Environmental Management and collaborates with several esteemed institutions. His primary research focuses on energy and sustainability economics. In his ultimate pursuit of regional sustainable development, his work utilizes economic and interdisciplinary methods to seek policy solutions to energy and environmental sustainability from interdisciplinary lenses. Dr. Zhang received bachelor's degrees from [Peking University](https://english.pku.edu.cn/) and a PhD in economics from [ETH Zurich](https://ethz.ch/en.html). Dr. Zhang has been elected as a council member of the [International Association for Energy Economics (IAEE)](https://www.iaee.org/index.aspx), and serves as the editor of [The Energy Journal](https://journals.sagepub.com/home/enj). Prof. Zhang has been listed in "Top Scholar in Social Sciences (top 0.5%)" by ScholarGPS, "Top 2% Scientists" by Stanford University, "Top 5% Economists (Last 10 years publications) by RePEc (Research Papers in Economics), "Top 30,000 Social Scientists" (all disciplines) by SSRN (Social Science Research Network). He has also won many awards for his excellent research from regional and international professional organizations. In 2024, Prof. Zhang was selected as one of the 18 SUSI Scholars globally sponsored by the U.S. Department of State. Prof. Zhang recently authored a book titled "[Sustainability Economics](https://link.springer.com/book/9783031878282)", published by Springer Nature.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Short Bio in Chinese
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+张林，本科毕业于北京大学，博士毕业于苏黎世联邦理工学院（经济学博士）。香港城市大学教授，全球治理与创新研究院副院长，博士生导师。国际能源经济学会（IAEE）理事、美国国务院经济与可持续发展SUSI访问学者、香港旅游局国际会议大使、香港清洁能源研究院研究员、The Energy Journal主编、Energy Policy特邀执行主编、NSFC/RGC地区联合项目首席专家。张林博士长期聚焦于气候变化、能源转型、环境治理与经济可持续发展的理论与量化研究；在PNAS等国内外顶级学术期刊发表论文80余篇；成果获得联合国、欧盟、OECD等组织机构的政策报告引用。入选ScholarGPS全球前0.5%顶尖社科学者、斯坦福全球前2%顶尖科学家等榜单。张林教授最新著作《可持续发展经济学》由施普林格·自然 (Springer Nature)出版集团出版。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about Prof. Lin Zhang can be found in [ResearchGate](https://www.researchgate.net/profile/Lin-Zhang-34)), [Google Scholar](https://scholar.google.com/citations?user=9qpMwO4AAAAJ&hl=zh-CN).
