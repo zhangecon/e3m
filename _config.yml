@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Lin_Zhang11"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57191834656"
   zotero           : # URL
 
