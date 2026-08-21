@@ -44,33 +44,24 @@ Service and leadership
 * 2022 - 2025 	Associate Editor, Frontiers in Environmental Science
 * 2018	External Consultant, Competition Commission of Hong Kong
 
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025 Top Scholar (top 0.5% in Social Sciences, economics, and Overall) by ScholarGPS
+* 2024 SUSI Scholar on Economics and Sustainable Development by the U.S. Department of State (one of the 18 Global Leaders)
+* 2024 Top 2% most highly cited scientists by Stanford University
+* 2024 Top Scholar (top 0.5% in Social Sciences and Overall) by ScholarGPS
+* 2024 Excellent Young Researcher Award of the School of Energy and Environment
+* 2024 Best Paper Award for the paper titled "Visible hands: High temperatures, power rationing, and firm performances" by the International Conference on Climate and Energy Finance
+* 2023 Outstanding paper award for the paper titled “High carbon path dependence, low carbon expectation, and green transition of technological paradigm” by China Society of Industrial Economics
+* 2022 Honorable Mention Award for the CPSG Inaugural Best Policy Research Article Award
+* 2021 Outstanding Paper Award at Global Paper Competition on Sustainable Paths Toward Carbon Neutrality
+* 2021 Certificate of Merit for papers selected by The Hong Kong Institution of Engineers (HKIE)
+* 2018 Outstanding reviewer for the Journal of Environmental Management
+* 2017 Outstanding reviewer for Economic Modelling
+* 2015 Best doctoral thesis by Swiss Association of Energy Economics <sup>[Ref](https://saee.ch/saee-student-awards/)</sup>
+* 2014 Fellow of the UBS International Center of Economics in Society 
+* 2011 Young economist nominated by OFID (The OPEC Fund for International Development) for the 4th Lindau Nobel Laureate Meeting on Economic Sciences
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+个人公众号（欢迎关注）
+------
+<img src="/main/images/qrcode.jpg" alt="wechat qrcode">
