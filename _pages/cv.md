@@ -11,27 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng. in Mechanical Engineering, Peking University
+* M.S. in Management Economics, ETH Zurich
+* Ph.D in Economics, ETH Zurich
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Full Professor, City University of Hong Kong
+* 2026	UAiTED Visiting Faculty, National ChengChi University
+* 2025	Associate Director, Institute of Global Governance and Innovation for a Shared Future, City University of Hong Kong (CityUHK)
+* 2025	Full Professor, School of Energy and Environment (SEE), joint Appointment with Department of Public and International Affairs (PIA), CityUHK
+* 2024	SUSI Visiting Scholar, the U.S. Department of State
+* 2022 - 2024 	Associate Professor, SEE & PIA, CityUHK
+* 2016 - 2022 	Assistant Professor, SEE & PIA, CityUHK
+* 2015 - 2016 	Postdoctoral Researcher, Center for Economic Research at ETH Zurich
+* 2011 - 2015 	Research Fellow, Chair of Economics/Resource Economics at ETH Zurich
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Service and leadership
+======
+* 2026	Member of International Advisory Board, The International Society for Hydrogen Innovation and New Energy Dissemination (iSHINEd)
+* 2025 June – now	Member (Business & Economics Panel) of RAE 2026, UGC Hong Kong
+* 2025 onward	Guest Editor, International Review of Financial Analysis (SSCI, ABS-3, ABDC-A)
+* 2024 onward	Guest Editor, Energy Policy (SCI, SSCI, ABDC-A)
+* 2024 onward 	Editor, The Energy Journal (SSCI, ABS-3, ABDC-A)
+* 2024 onward	Editor, Cambridge Prisms: Energy Transitions (Cambridge University Press)
+* 2023 - now 	Associate Editor, Humanities and Social Sciences Communications (Springer Nature)
+* 2023 - 2025 	Council Member, International Association for Energy Economics
+* 2023 - 2024	Hong Kong Convention Ambassador, Hong Kong Tourism Board
+* 2022 - 2023 	Editorial Board Member, The Energy Journal
+* 2022 - now 	Member, Hong Kong Institute for Clean Energy (HKICE)
+* 2022 - 2025	Associate Editor, Frontiers in Climate (Climate and Economics Section)
+* 2022 - 2025 	Associate Editor, Frontiers in Environmental Science
+* 2018	External Consultant, Competition Commission of Hong Kong
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
