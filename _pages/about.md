@@ -15,7 +15,8 @@ Research Interests
   * Green Business & Sustainable Governance (with particular interests in corporate strategy for sustainability and resource use)
   * Sustainable Economic Development (with particular interests in green growth and growth under climate Risks)
 
-* **Ten Representative peer-reviewed Articles**:
+Ten Representative peer-reviewed Articles
+------
    * Xinya Hao, **Lin Zhang**, Huanhuan Zheng (2026): FDI and Coal Lock-In: The Global South’s Development Dilemma. *World Development*, 206, 107453. <sup>[Link](https://doi.org/10.1016/j.worlddev.2026.107453)</sup>
    * Qiang Li, **Lin Zhang** (2026): Whose Voices Are Being Heard? The Impacts of Public Participation on Policy Attention in China. *American Review of Public Administration*, forthcoming. <sup>[Link](https://doi.org/10.1177/02750740261432649)</sup>
   * Xinya Hao, Yongying Huang, **Lin Zhang** (2025): High Temperature, Power Rationing, and Firm Performance. *Journal of Development Economics*, 176, 103541. <sup>[Link](https://doi.org/10.1016/j.jdeveco.2025.103541)</sup>
