@@ -27,8 +27,8 @@ Section II: How to Email a Professor?
 Below I list a collection of documents which may be useful for your group/individual project:
 
 1. How to choose a topic for your project:
-a. Pischke (LSE)
-b. Laibson (Harvard)
+a. [Pischke (LSE)](https://92d1a03a-85f1-433e-9ba8-7a7d169bf635.filesusr.com/ugd/997107_43b1d0804873465981f5effd3e609751.pdf)
+b. [Laibson (Harvard)](https://92d1a03a-85f1-433e-9ba8-7a7d169bf635.filesusr.com/ugd/997107_9268f0d0d33d414fb0e76881d6de4f91.pdf)
 
 2. How to write your report
 a. FYP guidelines
@@ -41,9 +41,9 @@ Gentzkow and Shapiro (Chicago Booth)
 4. How to present your work
 a. Davis (Columbia)
 b. Hansen (Wisconsin-Madison)
+c. ["Top 10 List Giving an Effective Presentation," CSWEP Newsletter.](https://www.aeaweb.org/content/file?id=651)
 
-
-Section IV: For PhD students of Economics --- Surviving skills (link)
+Section IV: For PhD students of Economics --- Surviving skills ([link](https://www.aeaweb.org/about-aea/committees/cswep/mentoring-and-networks/reading))
 ======
 Publishing
 "How to Get Published in an Economics Journal," CSWEP Newsletter Symposium, Spring 2011.
@@ -70,9 +70,7 @@ Publishing
 “Preparing a Referee Report: Guidelines and Perspectives” Jonathan Berk, Campbell R. Harvey, and David A. Hirshleifer. 2015. Available at SSRN 2547191
 “Top Ten Ways to Deal with Editors and Referees,” American Economic Association
 
-​
-
-Teaching
+​Teaching
 "Teaching Economics in Different Environments," CSWEP Newsletter Symposium, Winter 2006.
 "Starting Point: Economics," a new NSF project that makes innovative pedagogical resources and effective teaching practices easily accessible to economists via a web-based pedagogic portal.
 "An Online Handbook for the Use of Contemporary Econometrics in Economic Education Research," AEA Committee on Economic Education.
@@ -83,24 +81,12 @@ Grants
 "Applying for Research Grants from Liberal Arts Colleges," Lara Shore-Shepard, CSWEP Newsletter Summer 2004.
 “The NIH Grant Review Process: What You Need To Know,” Marie Davidian, 2006 ENAR Workshop for Junior Researchers, ENAR.
 
-​
-
-Media
+​Media
 “Maximizing the Substance in the Soundbite: A Media Guide for Economics,” Daniel Hamermesh, The Journal of Economic Education, 35(4), 370-382.
 “You: A Valuable Media Source,” Media Guide for Health and Science Experts, Robert Wood Johnson Foundation, January 2009.
 “A Bakers’ Dozen Tips for Aspiring Media Gurus,” Len Burman, Winter 2010 CSWEP Newsletter.
  “An Economist’s Guide to Visualizing Data,” J.A. Schwabish, The Journal of Economic Perspectives, 2014, 28(1), 209-233.
 “Are Pictures Worth a Thousand Words?” Angshuman Gooptu, May 1st, 2015, Presentation.
 
-
-
-Presenting
-"Top 10 List Giving an Effective Presentation," CSWEP Newsletter.
-“Tips on How to Avoid Disaster in Presentations,” Monika Piazzesi
-“How to Give an Applied Micro Talk,” Jesse M. Shapiro, Presentation.
-
-
-
 Discussing
-“Tips on Being a Good Discussant,” University of Texas Economics Advising
-“How to Survive a Seminar Presentation,” Lisa M. Lynch, Special Reprint Issue No 2, pg 17-19.
+[“Tips on Being a Good Discussant,” University of Texas Economics Advising](http://144.214.146.78:9999/filemgr/share-download/?id=05b7eebaa227494ebe465080b9d5ae1e)
