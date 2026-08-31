@@ -27,7 +27,7 @@ Section II: How to Email a Professor?
 Below I list a collection of documents which may be useful for your group/individual project:
 
 1. How to choose a topic for your project:
-a. [Pischke (LSE)](https://92d1a03a-85f1-433e-9ba8-7a7d169bf635.filesusr.com/ugd/997107_43b1d0804873465981f5effd3e609751.pdf)
+a. [Pischke (LSE)](/files/Pischke(LSE).pdf)
 b. [Laibson (Harvard)](https://92d1a03a-85f1-433e-9ba8-7a7d169bf635.filesusr.com/ugd/997107_9268f0d0d33d414fb0e76881d6de4f91.pdf)
 
 2. How to write your report
