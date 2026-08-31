@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/postgraduate
 Course code: "PhD"
-year: 2026
+date: 2026
 location: "Kowloon Tong, Hong Kong SAR"
 ---
 
