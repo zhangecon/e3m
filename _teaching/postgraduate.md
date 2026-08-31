@@ -12,7 +12,7 @@ Section I: Data Resources
 ======
 1. EM-DAT The international disasters database: [database intro](https://mp.weixin.qq.com/s/8jqyP-mZmmjJ-AZ9HM_N2Q) [database link](https://www.emdat.be/)
 2. Environmental policy stringency index OECD: [database link](https://data-explorer.oecd.org/vis?tenant=archive&df[ds]=DisseminateArchiveDMZ&df[id]=DF_EPS&df[ag]=OECD)
-3. IEA policy database: [database link(https://www.iea.org/policies?source=IEA%2FIRENA%20Renewables%20Policies%20Database&page=1) 
+3. IEA policy database: [database link](https://www.iea.org/policies?source=IEA%2FIRENA%20Renewables%20Policies%20Database&page=1) 
 4. Hong Kong statistics: [link](https://www.censtatd.gov.hk/en/page_8000.html)
 5. National Data: [link](https://data.stats.gov.cn/dg/website/page.html#/pc/national/home)
 6. World Bank open data: [link](https://data.worldbank.org/)
