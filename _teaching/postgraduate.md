@@ -4,58 +4,47 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/postgraduate
 Course code: "PhD"
+year: 2026
 location: "Kowloon Tong, Hong Kong SAR"
 ---
 
 Section I: Data Resources
 ======
 1. EM-DAT The international disasters database: [database intro](https://mp.weixin.qq.com/s/8jqyP-mZmmjJ-AZ9HM_N2Q) [database link](https://www.emdat.be/)
-2. Environmental policy stringency index OECD (database link)
-3. IEA policy database (database link)
-4. Hong Kong statistics (link)
-5. National Data (link)
-6. World Bank open data (link)
-7. IEA data (link)
-8. Energy data link IAEE (link)
+2. Environmental policy stringency index OECD: [database link](https://data-explorer.oecd.org/vis?tenant=archive&df[ds]=DisseminateArchiveDMZ&df[id]=DF_EPS&df[ag]=OECD)
+3. IEA policy database: [database link(https://www.iea.org/policies?source=IEA%2FIRENA%20Renewables%20Policies%20Database&page=1) 
+4. Hong Kong statistics: [link](https://www.censtatd.gov.hk/en/page_8000.html)
+5. National Data: [link](https://data.stats.gov.cn/dg/website/page.html#/pc/national/home)
+6. World Bank open data: [link](https://data.worldbank.org/)
+7. IEA data: [link](https://www.iea.org/data-and-statistics)
 
 Section II: How to Email a Professor?
 ======
-(click to read)
+[click to read](https://www.wikihow.com/Email-a-Professor)
 
-​
-
+​Section III: Research Projects
+======
 Below I list a collection of documents which may be useful for your group/individual project:
 
 1. How to choose a topic for your project:
-
 a. Pischke (LSE)
-
 b. Laibson (Harvard)
 
 2. How to write your report
-
 a. FYP guidelines
-
 b. Glaeser (Harvard)
-
 c. Cochrane (Chicago)
 
 3. How to write code and manage data
-
 Gentzkow and Shapiro (Chicago Booth)
 
 4. How to present your work
-
 a. Davis (Columbia)
-
 b. Hansen (Wisconsin-Madison)
 
-​
 
-======================================================================================
-
-Section III: For PhD students of Economics --- Surviving skills (link)
-
+Section IV: For PhD students of Economics --- Surviving skills (link)
+======
 Publishing
 "How to Get Published in an Economics Journal," CSWEP Newsletter Symposium, Spring 2011.
 "Top 10 Ways to Deal with Editors and Referees," CSWEP Newsletter Reprint.
