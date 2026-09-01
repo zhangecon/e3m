@@ -4,9 +4,6 @@ title: "Media Post"
 collection: portfolio
 ---
 
-This is a collection of my articles in media.
-
-
 **Non-peer-reviewed Media Articles**:
   *  X. Hao, Y. Huang, & L. Zhang (2026). Beyond the Heat: Power Rationing Matters More When Extreme Temperature Strikes. *VoxChina*. <sup>[Link](https://www.voxchina.org/show-3-472.html)</sup>
   *  Q. Li, J. Tang, & L. Zhang (2026). The Electricity Import Dilemma: Hong Kong’s Path to Net-Zero in the Greater Bay Area. *IAEE Energy Forum*, 2026(1st Quarter), 14-17. <sup>[Link](https://iaee.org/publications/newsletter/1st-quarter-2026)</sup>
